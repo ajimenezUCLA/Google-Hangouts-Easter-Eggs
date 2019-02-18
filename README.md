@@ -32,3 +32,10 @@ A Collection of currently known easter eggs for google hangouts
 | /shame      | Browser, Mobile   |  🔔 🔔 🔔 |
 | /terminal   | Browser          | changes the display |
 | /happy  | Browser, Mobile | ᕕ( ᐛ )ᕗ |
+| /yuno    | Browser, Mobile | ლ(ಠ益ಠლ) |
+| /disapprove | Browser, Mobile | ಠ_ಠ |
+| /puppyparty | Browser, Mobile | 🐕🐩🐕🙌🐩🐕🐩 |
+| (arrow keys): up, up, down, down, left, right, left, right (type): b, a, then hit enter| Browser | Scenic Background |
+| /algebraic | Browser, Mobile | l ( •◡•)l   (❍ᴥ❍ʋ) |
+| /dealwithit or /sunglasses | Browser, Mobile | ( •_•),  ( •_•)>⌐■-■,  (⌐■_■)|
+|

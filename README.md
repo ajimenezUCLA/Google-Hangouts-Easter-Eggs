@@ -14,3 +14,5 @@ A Collection of currently known easter eggs for google hangouts
 | /shruggie   | Browser, Mobile | ¯\_(ツ)_/¯            )_ |
 | V.v.V       | Browser         | Sends crab emoji         |
 | /corgis     | Browser, Mobile | A corgi walks by         |
+| /this       | Browser, Mobile | ☜(ﾟヮﾟ☜)                |
+|

@@ -39,3 +39,4 @@ A Collection of currently known easter eggs for google hangouts
 | /algebraic | Browser, Mobile | l ( •◡•)l   (❍ᴥ❍ʋ) |
 | /dealwithit or /sunglasses | Browser, Mobile | ( •_•),  ( •_•)>⌐■-■,  (⌐■_■)|
 | /success | Browser, Mobile | (•̀ᴗ•́)و ̑̑ |
+| /octodisco | Browser, Mobile | 🎶🐙🎶 |

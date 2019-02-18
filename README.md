@@ -38,4 +38,4 @@ A Collection of currently known easter eggs for google hangouts
 | (arrow keys): up, up, down, down, left, right, left, right (type): b, a, then hit enter| Browser | Scenic Background |
 | /algebraic | Browser, Mobile | l ( •◡•)l   (❍ᴥ❍ʋ) |
 | /dealwithit or /sunglasses | Browser, Mobile | ( •_•),  ( •_•)>⌐■-■,  (⌐■_■)|
-|
+| /success | Browser, Mobile | (•̀ᴗ•́)و ̑̑ |

@@ -40,3 +40,5 @@ A Collection of currently known easter eggs for google hangouts
 | /dealwithit or /sunglasses | Browser, Mobile | ( •_•),  ( •_•)>⌐■-■,  (⌐■_■)|
 | /success | Browser, Mobile | (•̀ᴗ•́)و ̑̑ |
 | /octodisco | Browser, Mobile | 🎶🐙🎶 |
+| /pitchforkstreams | Browser | Mob of people |
+| ~@~ | Browser | poop emoji |
